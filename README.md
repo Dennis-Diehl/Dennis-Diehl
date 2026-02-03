@@ -4,7 +4,7 @@
 I am a final-year computer science student at JGU Mainz, completing my Bachelor of Science in Computer Science. I will start a Master's degree in Artificial Intelligence and Data Science in Stuttgart in Summer 2026. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
-- 🤖 Exploring Machine Learning through practical experimentation with [scikit-learn](https://scikit-learn.org/) and the Python ML ecosystem
+- 🤖 Exploring Machine Learning through practical experimentation and the Python ML ecosystem
 - 💻 Building full-stack applications:
   - **Frontend:** Currently practicing with React and Tailwind CSS
   - **Backend:** Planning to dive into Java with Spring Boot and/or Python with FastAPI
