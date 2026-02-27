@@ -23,7 +23,7 @@ I am a final-year computer science student at JGU Mainz, completing my Bachelor 
   <img src="https://cdn.simpleicons.org/python" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript" height="40"/>
   <img src="https://cdn.simpleicons.org/scala" height="40"/>
-  <img src="https://cdn.simpleicons.org/sqlite" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"/>
   <img src="https://cdn.simpleicons.org/html5" height="40"/>
   <img src="https://cdn.simpleicons.org/css" height="40"/>
 </p>
