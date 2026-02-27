@@ -20,25 +20,25 @@ I am a final-year computer science student at JGU Mainz, completing my Bachelor 
 
 ### Languages
 <p>
-  <img src="https://cdn.simpleicons.org/python" height="40"/>
-  <img src="https://cdn.simpleicons.org/typescript" height="40"/>
-  <img src="https://cdn.simpleicons.org/scala" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/html5" height="40"/>
-  <img src="https://cdn.simpleicons.org/css" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40"/>
 </p>
 
 ### Developer Tools
 <p>
-  <img src="https://cdn.simpleicons.org/git" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
 </p>
 
 ### Libraries / Frameworks
 <p>
-  <img src="https://cdn.simpleicons.org/react" height="40"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="40"/>
-  <img src="https://cdn.simpleicons.org/fastapi" height="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit" height="40"/>
-  <img src="https://cdn.simpleicons.org/apachespark" height="40"/>
-  <img src="https://cdn.simpleicons.org/qt" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40"/>          
 </p>
