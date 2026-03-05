@@ -41,12 +41,7 @@ I am a final-year computer science student at JGU Mainz, completing my Bachelor 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40"/>
-  <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
-  height="40" 
-  style="background-color:white; padding:6px; border-radius:4px;"
-  />
-          
+  <img src="https://skillicons.dev/icons?i=flask" height="40"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40"/>          
 </p>
