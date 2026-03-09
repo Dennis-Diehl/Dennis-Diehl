@@ -31,8 +31,9 @@ Check out my [coding portfolio](https://dennisd-portfolio.vercel.app/)!
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
 </p>
+    
 ### Libraries / Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40"/>
