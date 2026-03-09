@@ -18,8 +18,6 @@ Check out my [coding portfolio](https://dennisd-portfolio.vercel.app/)!
 
 
 # 💻 Tech Stack:
-
-
 ### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
@@ -29,14 +27,12 @@ Check out my [coding portfolio](https://dennisd-portfolio.vercel.app/)!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40"/>
 </p>
-
 ### Developer Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-          
-</p>
 
+</p>
 ### Libraries / Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40"/>
