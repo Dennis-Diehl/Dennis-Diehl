@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Dennis</h1>
 
 # 💫 About Me:
-I am a final-year computer science student at JGU Mainz, completing my Bachelor of Science in Computer Science. I will start a Master's degree in Artificial Intelligence and Data Science in Stuttgart in Winter 2026. I'm passionate about exploring the realms of coding and machine learning
+I am a final-year computer science student at JGU Mainz, completing my Bachelor of Science in Computer Science. I will start a Master's degree in Artificial Intelligence and Data Science in Stuttgart in Winter 2026. 
+I'm passionate about exploring the realms of coding and machine learning.
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning through practical experimentation and the Python ML ecosystem
