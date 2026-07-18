@@ -1,52 +1,32 @@
-<h1 align="center">Hi 👋 I'm Dennis</h1>
+# Hey there! 👋 I'm Dennis
 
-# 💫 About Me:
-I am a final-year computer science student at JGU Mainz, completing my Bachelor of Science in Computer Science. I will start a Master's degree focused on Artificial Intelligence and Data Science in Winter 2026. <br>
-I focus on software development, with a strong interest in building practical AI applications using LLMs and Generative AI.
+**Computer Science Student, focused on AI and LLMs.** <br> 
+**AI Platform Engineering Intern at Mercedes-Benz Tech Innovation**
 
-## 🚀 What I'm Up To
-- 🤖 Building applications with LLMs and Generative AI (e.g. APIs, agents, automation use cases)
-- 💻 Developing full-stack applications with integrated AI features:
-  - **Frontend:** Streamlit, React, Tailwind CSS
-  - **Backend:** FastAPI and Spring Boot for AI-powered services
-  - **Database:** PostgreSQL
-  - **AI Integration:** Working with LLM APIs, prompt design, and application-level integration
-  - **DevOps:** Using Docker to containerize and deploy AI applications
+![Commit History](assets/game.gif)
 
-Check out my [coding portfolio](https://dennisd-portfolio.vercel.app/)!
+Feel free to connect with me here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-diehl/)
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-diehl/)
+## 🚀 About Me
 
+- 🎓 Starting a Master's degree in Artificial Intelligence and Data Science in Winter 2026.
+- 🧠 Interested in Generative AI and LLMs, from APIs and prompt design to application-level integration.
+- 🔗 Curious about agentic workflows that orchestrate multi-step, tool-using AI agents.
 
-# 💻 Tech Stack:
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40"/>
+## 🔧 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,scala,ts,react" />
 </p>
 
-### Developer Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,mysql,docker,git,fastapi" />
 </p>
-    
-### Libraries / Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40"/>
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"  height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40"/>          
-</p>
+
+## 💻 Portfolio
+
+Check out [my portfolio](https://dennisd-portfolio.vercel.app/) for an overview of my projects and education
+
+<a href="https://dennisd-portfolio.vercel.app/" target="_blank">
+  <img src="assets/portfolio-overview.png" alt="Portfolio Overview" width="850" />
+</a>
