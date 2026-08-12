@@ -28,5 +28,5 @@ Feel free to connect with me here: [![LinkedIn](https://img.shields.io/badge/Lin
 Check out [my portfolio](https://dennisd-portfolio.vercel.app/) for an overview of my projects and education
 
 <a href="https://dennisd-portfolio.vercel.app/" target="_blank">
-  <img src="assets/portfolio-overview.png" alt="Portfolio Overview" width="850" />
+  <img src="assets/portfolio-overview-v2.png" alt="Portfolio Overview" width="850" />
 </a>
