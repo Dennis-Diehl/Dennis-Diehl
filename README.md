@@ -9,7 +9,7 @@ Feel free to connect with me here: [![LinkedIn](https://img.shields.io/badge/Lin
 
 ## 🚀 About Me
 
-- 🎓 Starting a Master's degree in Artificial Intelligence and Data Science in Winter 2026.
+<!-- - 🎓 Starting a Master's degree in Artificial Intelligence and Data Science in Winter 2026. -->
 - 🧠 Interested in Generative AI and LLMs, from APIs and prompt design to application-level integration.
 - 🔗 Curious about agentic workflows that orchestrate multi-step, tool-using AI agents.
 
